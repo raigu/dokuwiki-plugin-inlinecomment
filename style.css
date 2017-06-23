@@ -1,0 +1,9 @@
+button.inlinecomment-button, form.inlinecomment-form input[type=submit] {
+    margin-left: 10px;
+}
+
+span.inlinecomment-error {
+    display: block;
+    color: red;
+    font-size: 0.9em;
+}

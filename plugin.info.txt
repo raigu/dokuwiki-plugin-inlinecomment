@@ -1,0 +1,7 @@
+base   inlinecomment
+author Rait Kapp
+email  raigur@gmail.com
+date   2017-06-22
+name   inlinecomment plugin
+desc   Inline comment on wiki page allows to add or change the comment instantly without going into edit page.
+url    https://github.com/raigu/dokuwiki-plugin-inlinecomment
